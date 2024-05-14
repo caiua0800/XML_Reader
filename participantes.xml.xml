@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.1.2//EN" "http://www.oasis-open.org/docbook/xml/4.1.2/docbookx.dtd">
+<article lang="">
+  <para>&lt;participante&gt;&#13;</para>
+  <para>    &lt;nome&gt;Lewis Hamilton&lt;/nome&gt;&#13;</para>
+  <para>    &lt;corridas_ganhas&gt;95&lt;/corridas_ganhas&gt;&#13;</para>
+  <para>    &lt;idade&gt;37&lt;/idade&gt;&#13;</para>
+  <para>    &lt;data_nascimento&gt;1985-01-07&lt;/data_nascimento&gt;&#13;</para>
+  <para>&lt;/participante&gt;&#13;</para>
+  <para>&lt;participante&gt;&#13;</para>
+  <para>    &lt;nome&gt;Sebastian Vettel&lt;/nome&gt;&#13;</para>
+  <para>    &lt;corridas_ganhas&gt;53&lt;/corridas_ganhas&gt;&#13;</para>
+  <para>    &lt;idade&gt;34&lt;/idade&gt;&#13;</para>
+  <para>    &lt;data_nascimento&gt;1987-07-03&lt;/data_nascimento&gt;&#13;</para>
+  <para>&lt;/participante&gt;&#13;</para>
+  <para>&lt;participante&gt;&#13;</para>
+  <para>    &lt;nome&gt;Max Verstappen&lt;/nome&gt;&#13;</para>
+  <para>    &lt;corridas_ganhas&gt;22&lt;/corridas_ganhas&gt;&#13;</para>
+  <para>    &lt;idade&gt;25&lt;/idade&gt;&#13;</para>
+  <para>    &lt;data_nascimento&gt;1997-09-30&lt;/data_nascimento&gt;&#13;</para>
+  <para>&lt;/participante&gt;&#13;</para>
+</article>

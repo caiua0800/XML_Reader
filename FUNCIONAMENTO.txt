@@ -1,0 +1,12 @@
+FUNCIONAMENTO DO SERVIDOR 
+
+PRIMEIRO PASSO
+	- Abrir o 'index.html'
+	- Copiar enderço da URL, Exemblo:'file:///C:/Users/caiua/Downloads/L/index.html'
+
+SEGUNDO PASSO:
+	- Colocar o link copiado no software
+	- Clicar na pasta server e clicar em 'exe' para o server ligar
+
+TERCEIRO PASSO
+	- Colocar o chroma Key green na página do jeito que quiser
